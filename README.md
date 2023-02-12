@@ -70,4 +70,4 @@ The section `[healthcheckd]` must be presented at the top of the configuration f
 | `db_port` | integer | The port on the database server (from 0 to 65535) that mysql-simple-healthcheckd connects to | 3306, 6446 |
 | `db_username` | string | The username used for connecting to the database server | healthcheck |
 | `db_password` | string | The plaintext password for the above username | healthcheckExamplePa$$w0rd |
-| `db_database` | string | representing the database name to be used once the connection is established | healthcheck_db |
+| `db_database` | string | The database name to be used once the connection is established. Can be left blank | healthcheck_db |
