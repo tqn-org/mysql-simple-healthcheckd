@@ -1,0 +1,8 @@
+[healthcheckd]
+http_host   = 0.0.0.0
+http_port   = 64444
+db_host     = localhost
+db_port     = 3306
+db_username = healthcheck
+db_password = healthcheckExamplePa$$w0rd
+db_database = db_name_or_left_blank

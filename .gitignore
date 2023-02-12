@@ -1,0 +1,11 @@
+# ignore macOS .DS_Store
+**/.DS_Store
+
+# ignore python venv
+bin
+include
+lib
+pyvenv.cfg
+
+# ignore my customised config
+conf.d/healthcheckd_conf
