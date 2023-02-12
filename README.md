@@ -13,7 +13,7 @@ cd ./mysql-simple-healthcheckd
 
 2. Create a python venv and install required libraries.
 
-```python
+```
 python3 -m venv .
 source ./bin/activate
 pip3 install -r ./requirements.txt
