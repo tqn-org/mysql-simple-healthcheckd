@@ -1,6 +1,6 @@
 # mysql-simple-healthcheckd
 
-A simple HTTP endpoint which can be used by load balancers and proxies for MySQL health check.
+A simple HTTP endpoint which can be used by load balancers and proxies for MySQL health check. Created using the Python 3 simple HTTP server module.
 
 ## Usage
 
